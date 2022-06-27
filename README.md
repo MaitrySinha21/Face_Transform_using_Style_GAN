@@ -1,4 +1,4 @@
-# Image Transformation with Style_Gan2_Ada. 
+# Face Transformation with Style_Gan2_Ada. 
 
 **First, Genearted fake images.**
 
